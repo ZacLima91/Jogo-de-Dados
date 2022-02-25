@@ -1,6 +1,9 @@
 # Jogo-de-Dados
+
+
 &nbsp;
-Jogo de dados: Crie um programa onde jogadores joguem um dado e tenham resultados aleatórios.
+Jogo de dados: Crie um programa onde jogadores joguem um dado e tenham resultados aleatórios.  
+
 &nbsp;
 O programa tem que:
 &nbsp;
