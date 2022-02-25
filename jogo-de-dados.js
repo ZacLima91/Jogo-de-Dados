@@ -36,4 +36,4 @@ for (let i = 0; i < jogadores.length; i++) {
     }
 }
 
-console.log(jogadores)
+console.log(jogadores);
